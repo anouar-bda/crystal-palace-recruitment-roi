@@ -1,3 +1,7 @@
+# Crystal Palace — 8-Season Recruitment ROI Analysis
+ 
+**Independent analysis · Not affiliated with, endorsed by, or produced on behalf of Crystal Palace F.C.**
+ 
 An 8-season breakdown of Crystal Palace's permanent recruitment (Aug 2017 – Aug 2025), assessing which signing patterns actually delivered return — and which didn't — across usage efficiency, value gain/loss, and fee-to-outcome relationships.
  
 **[View the full interactive Tableau Story →](https://public.tableau.com/views/CrystalPalace8-SeasonRecruitmentROI/CrystalPalace8-SeasonRecruitmentROI?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
@@ -124,7 +128,7 @@ Efficiency by source league, and fee vs. efficiency on a log-scaled scatter (lin
  
 ## Repository Structure
  
-\`\`\`
+```
 crystal-palace-recruitment-roi/
 ├── data/
 │   └── crystal_palace_tableau_extract.csv
@@ -137,13 +141,13 @@ crystal-palace-recruitment-roi/
 │   ├── recruitment_patterns.png
 │   └── recommendations.png
 └── README.md
-\`\`\`
+```
  
 ---
  
 ## Contact
  
-**Anouar Lacheheb**
-Portfolio: anouarlacheheb.com
-GitHub: github.com/anouar-bda
+**Anouar Lacheheb**<br>
+Website Portfolio: anouarlacheheb.com<br>
+GitHub: github.com/anouar-bda<br>
 LinkedIn: linkedin.com/in/anouar-lacheheb-328052398
