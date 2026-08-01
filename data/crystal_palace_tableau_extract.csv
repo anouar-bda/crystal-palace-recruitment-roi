@@ -1,0 +1,48 @@
+﻿Player,Position,Age_at_Signing,Transfer_Season,Transfer_Type,Fee_Paid_EURm,Club_Signed_From,Source_League,Nationality,Current_Status,Current_Market_Value_EURm,Sale_Fee_EURm,Value_Used_EURm,Gain_Loss_Type,Value_Gain_Loss_EURm,Return_on_Fee_Pct,Palace_Usage_Total,Seasons_Played,Usage_per_Season,Efficiency_per_EURm,Avg_FotMob_Rating,Usage_Unit,Age_Bracket
+Mamadou Sakho,DF,27,2017/18,Paid,28.2,Liverpool,Premier League,France / Senegal,Released / Free,,0,0,Loss,-28.2,-1,5223,4,1305.75,46.3031914893617,6.465,Minutes,24-27
+Alexander Sørloth,FW,22,2017/18,Paid,16,Central Jutland,Super League,Norway,Sold,,20,20,Gain,4,0.25,533,2,266.5,16.65625,6.385,Minutes,Under 24
+Jaïro Riedewald,MD,20,2017/18,Paid,9,Ajax,Eredivisie,Netherlands / Suriname,Released / Free,,0,0,Loss,-9,-1,3421,7,488.714285714286,54.3015873015873,6.40666666666667,Minutes,Under 24
+Jarosław Jach,DF,23,2017/18,Paid,2.75,Zagłębie Lubin,Ekstraklasa,Poland,Released / Free,,0,0,Loss,-2.75,-1,0,1,0,0,,Minutes,Under 24
+Diego Cavalieri,GK,35,2017/18,Free transfer,0,Without Club,Without Club,Brazil / Italy,Released / Free,,0,0,Neutral,0,,0,1,0,,,Matches,28+
+Cheikhou Kouyaté,MD,28,2018/19,Paid,10.7,West Ham,Premier League,Senegal / Belgium,Released / Free,,0,0,Loss,-10.7,-1,9533,4,2383.25,222.733644859813,6.6375,Minutes,28+
+Max Meyer,MD,22,2018/19,Free transfer,0,FC Schalke 04,Bundesliga,Germany,Released / Free,,0,0,Neutral,0,,2060,3,686.666666666667,,6.245,Minutes,Under 24
+Bakary Sako,FW,30,2018/19,Free transfer,0,West Brom,Championship,Mali / France,Released / Free,,0,0,Neutral,0,,26,1,26,,5.87,Minutes,28+
+Vicente Guaita,GK,31,2018/19,Free transfer,0,Getafe,LaLiga,Spain,Released / Free,,0,0,Neutral,0,,149,5,29.8,,6.468,Matches,28+
+James McCarthy,MD,28,2019/20,Paid,3.3,Everton,Premier League,Ireland / Scotland,Released / Free,,0,0,Loss,-3.3,-1,2495,2,1247.5,378.030303030303,6.45,Minutes,28+
+Jordan Ayew,FW,27,2019/20,Paid,2.8,Swansea City,Championship,Ghana / France,Sold,,5.9,5.9,Gain,3.1,1.10714285714286,12594,5,2518.8,899.571428571429,6.69,Minutes,24-27
+Gary Cahill,DF,33,2019/20,Free transfer,0,Chelsea,Premier League,England,Released / Free,,0,0,Neutral,0,,3968,2,1984,,6.455,Minutes,28+
+Stephen Henderson,GK,31,2019/20,Free transfer,0,Nottingham Forest,Championship,Ireland,Released / Free,,0,0,Neutral,0,,0,1,0,,,Matches,28+
+Eberechi Eze,MD,22,2020/21,Paid,17.8,QPR,Championship,England / Nigeria,Sold,,69.3,69.3,Gain,51.5,2.89325842696629,10471,5,2094.2,117.651685393258,7.208,Minutes,Under 24
+Jack Butland,GK,27,2020/21,Paid,1.1,Stoke City,Championship,England,Released / Free,,0,0,Loss,-1.1,-1,10,2,5,4.54545454545455,6.32,Matches,24-27
+Nathaniel Clyne,DF,29,2020/21,Free transfer,0,Liverpool,Premier League,England / Grenada,Still at Palace,0.3,,0.3,Gain,0.3,,6554,6,1092.33333333333,,6.61,Minutes,28+
+Nathan Ferguson,DF,19,2020/21,Free transfer,0,West Brom,Premier League,England / Jamaica,Released / Free,,0,0,Neutral,0,,8,4,2,,,Minutes,Under 24
+Marc Guéhi,DF,21,2021/22,Paid,23.34,Chelsea,Premier League,England / Côte d’Ivoire,Sold,,23,23,Loss,-0.34,-0.0145672664952871,11632,4,2908,124.592973436161,6.9425,Minutes,Under 24
+Joachim Andersen,DF,25,2021/22,Paid,17.5,Lyon,Ligue 1,Denmark,Sold,,29.5,29.5,Gain,12,0.685714285714286,9114,3,3038,173.6,7,Minutes,24-27
+Odsonne Édouard,FW,23,2021/22,Paid,16.3,Celtic,Premiership,France / Haiti,Sold,,3.7,3.7,Loss,-12.6,-0.773006134969325,4924,3,1641.33333333333,100.695296523517,6.65333333333333,Minutes,Under 24
+Jean-Philippe Mateta,FW,24,2021/22,Paid,11,Mainz,Bundesliga,France / DR Congo,Still at Palace,30,,30,Gain,19,1.72727272727273,9061,5,1812.2,164.745454545455,6.648,Minutes,24-27
+Michael Olise,FW,19,2021/22,Paid,9.3,Reading,Championship,France / England,Sold,,53,53,Gain,43.7,4.6989247311828,5170,3,1723.33333333333,185.304659498208,7.30333333333333,Minutes,Under 24
+Will Hughes,MD,26,2021/22,Paid,7,Watford,Premier League,England,Still at Palace,5,,5,Loss,-2,-0.285714285714286,7470,5,1494,213.428571428571,6.71,Minutes,24-27
+Remi Matthews,GK,27,2021/22,Free transfer,0,Sunderland,League One,England,Still at Palace,0.2,,0.2,Gain,0.2,,1,4,0.25,,,Matches,24-27
+Cheick Doucouré,MD,22,2022/23,Paid,22.6,Lens,Ligue 1,Mali,Still at Palace,10,,10,Loss,-12.6,-0.557522123893805,4211,4,1052.75,46.5818584070796,6.97666666666667,Minutes,Under 24
+Chris Richards,DF,22,2022/23,Paid,12,Bayern Munich,Bundesliga,USA,Still at Palace,28,,28,Gain,16,1.33333333333333,7284,4,1821,151.75,6.7725,Minutes,Under 24
+Naouirou Ahamada,MD,20,2022/23,Paid,12,Stuttgart,Bundesliga,France / Comoros,Released / Free,,0,0,Loss,-12,-1,419,2,209.5,17.4583333333333,6.18,Minutes,Under 24
+Sam Johnstone,GK,29,2022/23,Free transfer,0,West Brom,Championship,England,Sold,,11.9,11.9,Gain,11.9,,29,2,14.5,,6.56,Matches,28+
+Malcolm Ebiowei,FW,18,2022/23,Free transfer,0,Derby County,League One,England / Netherlands,Sold,,1.15,1.15,Gain,1.15,,31,1,31,,,Minutes,Under 24
+Adam Wharton,MD,19,2023/24,Paid,21.1,Blackburn Rovers,Championship,England,Still at Palace,70,,70,Gain,48.9,2.3175355450237,5193,3,1731,82.0379146919431,7.06,Minutes,Under 24
+Matheus França,MD,19,2023/24,Paid,20,Flamengo,Série A,Brazil,Still at Palace (on loan),6,,6,Loss,-14,-0.7,276,2,138,6.9,6.34,Minutes,Under 24
+Dean Henderson,GK,26,2023/24,Paid,17.5,Manchester United,Premier League,England,Still at Palace,28,,28,Gain,10.5,0.6,93,3,31,1.77142857142857,7.02,Matches,24-27
+Daniel Muñoz,DF,27,2023/24,Paid,8,Genk,Jupiler Pro League,Colombia,Still at Palace,22,,22,Gain,14,1.75,7075,3,2358.33333333333,294.791666666667,7.28666666666667,Minutes,24-27
+Rob Holding,DF,27,2023/24,Paid,1.2,Arsenal,Premier League,England / USA,Released / Free,,0,0,Loss,-1.2,-1,0,1,0,0,,Minutes,24-27
+Jefferson Lerma,MD,28,2023/24,Free transfer,0,Bournemouth,Premier League,Colombia,Still at Palace,6,,6,Gain,6,,6403,3,2134.33333333333,,6.88333333333333,Minutes,28+
+Eddie Nketiah,FW,25,2024/25,Paid,29.7,Arsenal,Premier League,England / Ghana,Still at Palace,10,,10,Loss,-19.7,-0.663299663299663,1442,2,721,24.2760942760943,6.45,Minutes,24-27
+Maxence Lacroix,DF,24,2024/25,Paid,18,Wolfsburg,Bundesliga,France,Still at Palace,50,,50,Gain,32,1.77777777777778,6205,2,3102.5,172.361111111111,7.01,Minutes,24-27
+Ismaïla Sarr,FW,26,2024/25,Paid,15,Marseille,Ligue 1,Senegal,Still at Palace,45,,45,Gain,30,2,4890,2,2445,163,6.99,Minutes,24-27
+Chadi Riad,DF,21,2024/25,Paid,15,Real Betis,LaLiga,Morocco / Spain,Still at Palace,20,,20,Gain,5,0.333333333333333,644,2,322,21.4666666666667,6.7,Minutes,Under 24
+Romain Esse,FW,19,2024/25,Paid,14.2,Millwall,Championship,England / Côte d’Ivoire,Still at Palace (on loan),10,,10,Loss,-4.2,-0.295774647887324,135,1,135,9.50704225352113,6.58,Minutes,Under 24
+Daichi Kamada,MD,27,2024/25,Free transfer,0,Lazio,Serie A,Japan,Released / Free,,0,0,Neutral,0,,3462,2,1731,,6.695,Minutes,24-27
+Jørgen Strand Larsen,FW,25,2025/26,Paid,49.7,Wolves,Premier League,Norway,Still at Palace,40,,40,Loss,-9.7,-0.195171026156942,2316,1,2316,46.5995975855131,6.23,Minutes,24-27
+Brennan Johnson,FW,24,2025/26,Paid,40,Tottenham,Premier League,Wales / England,Still at Palace,30,,30,Loss,-10,-0.25,1722,1,1722,43.05,6.57,Minutes,24-27
+Yéremy Pino,FW,22,2025/26,Paid,30,Villarreal,LaLiga,Spain,Still at Palace,30,,30,Neutral,0,0,2091,1,2091,69.7,6.71,Minutes,Under 24
+Jaydee Canvot,DF,19,2025/26,Paid,25,Toulouse,Ligue 1,France / Senegal,Still at Palace,28,,28,Gain,3,0.12,1334,1,1334,53.36,6.84,Minutes,Under 24
+Borna Sosa,DF,27,2025/26,Paid,2.5,Ajax,Eredivisie,Croatia / Germany,Still at Palace,3,,3,Gain,0.5,0.2,99,1,99,39.6,,Minutes,24-27
+Walter Benítez,GK,32,2025/26,Free transfer,0,PSV,Eredivisie,Argentina / France,Still at Palace,4,,4,Gain,4,,1,1,1,,,Matches,28+
